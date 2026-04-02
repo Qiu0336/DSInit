@@ -1,4 +1,4 @@
-## Code will comming soon.
+## The code is comming soon.
 
 ## DSInit
 
