@@ -10,7 +10,9 @@ We propose a direct initialization method for stereo visual-inertial odometry, w
 ## Requirements
 
 Eigen3
+
 OpenCV 3.4
+
 
 ## Build and Run
 
@@ -21,7 +23,8 @@ cmake ..
 make -j4
 ```
 
-Modify the dataset_path in the *config/euroc.yaml*
+Modify the dataset_path in *config/euroc.yaml*
+
 In the build folder, run:
 ```
 ./dsinit ../euroc.yaml
