@@ -27,7 +27,7 @@ Modify the dataset_path in *config/euroc.yaml*
 
 In the build folder, run:
 ```
-./dsinit ../euroc.yaml
+./dsinit ../config/euroc.yaml
 ```
 
 If you find this work helpful or use our code, please cite:
