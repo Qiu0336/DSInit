@@ -15,6 +15,7 @@ OpenCV 3.4
 ## Build and Run
 
 ```
+git clone https://github.com/Qiu0336/DSInit.git
 cd DSInit
 mkdir build && cd build
 cmake ..
