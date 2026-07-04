@@ -1,5 +1,3 @@
-## The code is comming soon.
-
 ## Description
 
 **Paper:** Junyin Qiu, Jianglin Lan. **Direct Sparse Initialization for Stereo
