@@ -64,7 +64,6 @@ public:
     cv::Mat UndistortedImage(const cv::Mat &origin_img);
 
     void distortpoint(const Eigen::Vector2d& p, Eigen::Vector2d& dp) const;
-    void backprojectSymmetric(const Eigen::Vector2d& p_u, double& theta, double& phi) const;
     Eigen::Vector2d pixel2norm(const Eigen::Vector2d &pixel, bool ignore_dist = false);
     Eigen::Vector3d pixel2hnorm(const Eigen::Vector2d &pixel, bool ignore_dist = false);
     Eigen::Vector2d norm2pixel(const Eigen::Vector2d &norm, bool ignore_dist = false);
